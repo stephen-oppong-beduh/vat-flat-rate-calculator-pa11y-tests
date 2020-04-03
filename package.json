@@ -1,0 +1,26 @@
+{
+  "name": "vat-flat-rate-calculator-pa11y-tests",
+  "version": "1.0.0",
+  "description": "Pa11y tests for VATFRS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephen-oppong-beduh/vat-flat-rate-calculator-pa11y-tests.git"
+  },
+  "keywords": [
+    "pa11y"
+  ],
+  "author": "Stephen Oppong Beduh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephen-oppong-beduh/vat-flat-rate-calculator-pa11y-tests/issues"
+  },
+  "homepage": "https://github.com/stephen-oppong-beduh/vat-flat-rate-calculator-pa11y-tests#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "pa11y": "^5.3.0"
+  }
+}
